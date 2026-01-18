@@ -1,0 +1,23 @@
+export const reviews = [
+  {
+    id: 1,
+    name: "María Fernanda R.",
+    rating: 5,
+    comment:
+      "Excelente comida y ambiente. Las pastas tienen un sabor auténtico y la atención es muy cordial. Volveré sin duda.",
+  },
+  {
+    id: 2,
+    name: "Carlos P.",
+    rating: 4,
+    comment:
+      "Muy buena experiencia en el Centro Histórico. La pizza es deliciosa y el lugar tiene una identidad única.",
+  },
+  {
+    id: 3,
+    name: "Andrea L.",
+    rating: 5,
+    comment:
+      "Un restaurante con mucha historia y sabor. Ideal para compartir en familia o con amigos.",
+  },
+];
