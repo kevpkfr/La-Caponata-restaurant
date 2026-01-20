@@ -10,7 +10,6 @@ export default function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-300 mt-16">
       <div className="max-w-7xl mx-auto px-6 py-12 grid gap-10 md:grid-cols-3">
-        
         {/* Marca */}
         <div>
           <h3 className="text-2xl font-extrabold text-white mb-3">
@@ -25,9 +24,7 @@ export default function Footer() {
 
         {/* Contacto */}
         <div>
-          <h4 className="text-lg font-semibold text-white mb-4">
-            Contáctanos
-          </h4>
+          <h4 className="text-lg font-semibold text-white mb-4">Contáctanos</h4>
           <ul className="space-y-3 text-sm">
             <li className="flex items-center gap-3">
               <FaMapMarkerAlt className="text-red-500" />
@@ -55,9 +52,7 @@ export default function Footer() {
 
         {/* Redes sociales */}
         <div>
-          <h4 className="text-lg font-semibold text-white mb-4">
-            Síguenos
-          </h4>
+          <h4 className="text-lg font-semibold text-white mb-4">Síguenos</h4>
           <div className="flex gap-4">
             <a
               href="https://www.facebook.com/lacaponatauio/?locale=es_LA"
@@ -88,7 +83,7 @@ export default function Footer() {
 
       {/* Copyright */}
       <div className="border-t border-gray-700 text-center text-sm py-4">
-        © 2026 La Caponata · Proyecto académico de marketing digital
+        © 2026 La Caponata · Proyecto académico de marketing digital por Katherine Moposita 5to Matutino "A
       </div>
     </footer>
   );

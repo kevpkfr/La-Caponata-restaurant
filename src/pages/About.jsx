@@ -21,7 +21,6 @@ export default function About() {
 
       {/* Contenido */}
       <section className="grid gap-8 md:grid-cols-3">
-        
         {/* Misión */}
         <div className="bg-white shadow-md rounded-xl overflow-hidden text-center">
           <img
@@ -33,9 +32,9 @@ export default function About() {
             <HiOutlineHeart className="text-red-600 text-4xl mx-auto mb-4" />
             <h3 className="text-xl font-bold mb-2">Misión</h3>
             <p className="text-gray-600">
-              Ofrecer una experiencia gastronómica auténtica mediante platos
-              sicilianos elaborados con ingredientes de calidad y respeto por la
-              tradición culinaria.
+              Satisfacer el gusto y preferencia de nuestros clientes, ofreciendo
+              alimentos italianos, nutritivos de buena calidad, variedad, a
+              través de un excelente y ágil servicio.
             </p>
           </div>
         </div>
@@ -43,7 +42,7 @@ export default function About() {
         {/* Visión */}
         <div className="bg-white shadow-md rounded-xl overflow-hidden text-center">
           <img
-            src="https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyubEbLKE9lan3hYC2ejyRBnr3-IXwiRe5ahtGOIc4ftLHH-Vu4T_PKxUylOMVq5sXxbRJ-kUiGTdAEP54gDymsBDqkfvSOgUYAiInTOxbCR_mn4fXz-b6FFx2WeKNmcAVGh5b1=s680-w680-h510-rw"
+            src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/68/15/b9/la-caponata.jpg?w=1000&h=-1&s=1"
             alt="Restaurante italiano"
             className="h-48 w-full object-cover"
           />
@@ -51,8 +50,10 @@ export default function About() {
             <HiOutlineEye className="text-red-600 text-4xl mx-auto mb-4" />
             <h3 className="text-xl font-bold mb-2">Visión</h3>
             <p className="text-gray-600">
-              Ser un referente de la cocina italiana en Quito, reconocido por
-              su identidad cultural, calidad culinaria y excelente servicio.
+              Ser el mejor restaurante de comida italiana de la zona y
+              posicionarnos en el mercado, con comida de alta excelencia,
+              aumentando con ello la preferencia de nuestros clientes para
+              alcanzar una mayor ventaja competitiva.
             </p>
           </div>
         </div>
@@ -68,8 +69,7 @@ export default function About() {
             <HiOutlineOfficeBuilding className="text-red-600 text-4xl mx-auto mb-4" />
             <h3 className="text-xl font-bold mb-2">Valores</h3>
             <p className="text-gray-600">
-              Tradición, calidad, honestidad, respeto cultural y pasión por la
-              gastronomía italiana y el entorno histórico que nos rodea.
+              Respeto, cortesía, honestidad y servicio.
             </p>
           </div>
         </div>
